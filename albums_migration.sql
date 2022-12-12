@@ -12,5 +12,6 @@ USE codeup_test_db;
         PRIMARY KEY(id)
     );
 
+
 DESCRIBE albums;
 
